@@ -3,4 +3,5 @@
 #debug file
 debug
 #others
-vc140.pdb
+vc140.pdb 
+*.exe

@@ -4,9 +4,11 @@
 
 #include<stdio.h>
 
+int function(int);
+
 int main(void){
     int array[]={0,1,2,3};
-    printf("%d\n",fuction(array[1]));
+    printf("%d\n",function(array[1]));
     return 0;
 }
 
