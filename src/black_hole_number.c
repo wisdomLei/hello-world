@@ -1,9 +1,9 @@
-#includ<stdio.h>
-#includ<math.h>
+#include<stdio.h>
+#include<math.h>
 
 int sort(int *);
-int enArraize(int;int *);
-int wetherBla(int;int *);
+int enArraize(int,int *);
+int wetherBla(int,int *);
 int maxValue(int *);
 int minValue(int *);
 
@@ -18,6 +18,7 @@ int main(){
         }else{
             printf("no\t%d\n",count);
         }
+    }
     getchar();
     return 0;
 }
