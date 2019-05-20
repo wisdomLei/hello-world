@@ -1,5 +1,7 @@
 /*
   This file is a test for array element as a parament income to funtion.
+  The function can printf the correct result.
+  So we can use a array element as a formal parameter. 
 */
 
 #include<stdio.h>
