@@ -5,3 +5,4 @@ debug
 #others
 vc140.pdb 
 *.exe
+test.c
